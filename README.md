@@ -4,7 +4,7 @@ farmsim
 A HTML5 2-D Gardening Simulator Game project
 
 Try it now!
-https://apoorv1997.github.io/farmsim/farmsim.html
+https://apoorv1997.github.io/farmsim/index.html
 
 
 Features
